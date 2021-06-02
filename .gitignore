@@ -1,0 +1,12 @@
+__pycache__/
+game_credentials.json
+player_credentials.json
+.log
+*.pyc
+*.json
+.log
+app/example.log
+.json
+.pyc
+app/example.log
+
